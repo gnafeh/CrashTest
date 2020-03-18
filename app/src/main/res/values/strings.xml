@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrashTest</string>
+    <string name="button_anr_text">ANR</string>
+    <string name="button_crash_text">Crash</string>
+    <string name="button_alertdialog_text">Alert dialog</string>
+    <string name="toast_anr_text">请等待应用弹出ANR提示框！</string>
+</resources>
